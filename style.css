@@ -1,0 +1,37 @@
+*{
+    margin:5px;
+    padding: 13px;
+    text-align: center;
+}
+#output-container {
+    display: none;
+    margin-top: 5px;
+}
+
+#output {
+    white-space: pre-wrap;
+}
+button{
+    font-size:small;
+    color: black;
+    text-transform: uppercase;
+}
+#file-input{
+    border-radius: 50%;
+}
+input{
+    border-radius: 50%;
+    color: red;
+    font-style: italic;
+}
+#output{
+    text-align: left;
+    font-size: 20px;
+}
+fieldset{
+
+    background-image: linear-gradient(to LEFT, YELLOW, PINK);
+}
+body{
+    background-color: #93FFE8;
+}
